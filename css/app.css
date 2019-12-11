@@ -13,12 +13,14 @@ body {
     display: flex;
     margin: 0;
     height: 100%;
+    
 }
 
 .container {
     margin: auto;
     padding: 1em;
     width: 80%;
+    background: darkblue;
 }
 
 .destination-container {
@@ -56,5 +58,15 @@ h2 {
 }
 
 #barcelona {
-    background-color: #800000;
+    background-color: yellowgreen;
+}
+
+#isb {
+    background-color: orangered;
+}
+#lhr {
+    background-color: purple;
+}
+#khi {
+    background-color:blanchedalmond;
 }
